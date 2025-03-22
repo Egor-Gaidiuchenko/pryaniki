@@ -20,6 +20,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <Provider store={store}>
       <ThemeProvider>
         <App />
+        main
       </ThemeProvider>
     </Provider>
   </React.StrictMode>

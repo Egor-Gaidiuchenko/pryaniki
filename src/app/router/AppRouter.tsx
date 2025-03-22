@@ -5,6 +5,7 @@ import Table from "../../pages/Table";
 export const AppRouter = () => (
   <HashRouter>
     <Routes>
+      app
       <Route path="/login" element={<Auth />} />
       <Route path="/table" element={<Table />} />
       <Route path="*" element={<Auth />} />
