@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Egor-Gaidiuchenko.github.io/pryaniki",
+  "homepage": "https://egor-gaidiuchenko.github.io/pryaniki",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
