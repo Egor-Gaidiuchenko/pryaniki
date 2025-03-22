@@ -14,7 +14,7 @@ if (token && token !== "undefined") {
 } else {
   store.dispatch(logout());
 }
-
+console.log('afsadsfadsfadskfjaldsfas')
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     <Provider store={store}>
